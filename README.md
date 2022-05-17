@@ -1,2 +1,1 @@
-# financial_stochastic_final
-Final Project for Financial Stochastic Calculus
+# Implementation of Hierarchal Risk Parity & Investigating the effects of various distance metrics during the clustering phase
